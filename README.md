@@ -2,7 +2,7 @@
 
 > React-Portfolio
 
-### Access the aplication on your browser: (react-portfolio-728hmfofp-mystgabriel.vercel.app)
+### Access the aplication on your browser: (https://react-portfolio-psi-lilac.vercel.app/)
 
 ## 💻 How it works
 
