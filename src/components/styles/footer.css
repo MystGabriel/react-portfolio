@@ -1,0 +1,66 @@
+/* FOOTER */
+footer{
+    background-color: #F4B942;
+}
+
+footer .content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+footer .content .copy{
+    font-size: 17px;
+    text-align: center;
+    color: #12122a;
+}
+
+footer .content .copy span{
+    font-family: 'Haunter', sans-serif;
+}
+
+footer .content .social{
+    display: flex;
+    align-items: center;
+}
+
+footer .content .social .fab{
+    font-size: 17px;
+    color: #12122a;
+    margin-right: 20px;
+    transition: all .4s ease;
+    cursor: pointer;
+}
+
+footer .content .social .fab:hover{
+    color: #FFFFFF;
+    transform: scale(1.3);
+}
+
+footer .content .social .fa-behance{
+    margin-right: 40px;
+}
+
+footer .content .social .up{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all .6s ease;
+    font-size: 20px;
+    color: #12122a;
+    cursor: pointer;
+}
+
+footer .content .social .up:hover{
+    background-color: #fff;
+}
+
+footer .content .social .up i{
+    text-align: center;
+    font-size: 17px;
+    color: #12122a;
+}

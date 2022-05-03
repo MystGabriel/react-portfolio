@@ -1,0 +1,61 @@
+/* CONTACT */
+.contact .content .container .bg-form{
+    width: 65%;
+    background-color: #1c1c3d;
+    padding: 40px;
+}
+
+.header-contact{
+    padding-bottom: 50px;
+    padding-top: 150px;
+}
+
+.header-contact .line{
+    margin-bottom: 0;
+}
+
+.contact .content{
+    padding-bottom: 100px;
+}
+
+.contact .content .container{
+    display: flex;
+}
+
+.contact .content .container .contact-info{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: #0a0a18;
+}
+
+.contact .content .container .contact-info .infos{
+    padding: 40px;
+}
+
+.contact .content .container .contact-info .infos .info-title{
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+}
+
+.contact .content .container .contact-info .infos .user-info{
+    display: flex;
+    align-items: center;
+    padding-bottom: 20px;
+}
+
+.contact .content .container .contact-info .infos .user-info svg{
+    font-size: 34px;
+    padding-right: 15px;
+    color: #F4B942;
+}
+
+.contact .content .container .contact-info .infos .user-info .info{
+    font-weight: 300;
+    color: #FFFFFF;
+}
+
+.contact .content .container .contact-info .maps{
+    height: 100%;
+}

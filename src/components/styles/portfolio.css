@@ -1,0 +1,66 @@
+/* PORTFOLIO */
+header{
+    width: 100%;
+    padding-top: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+header .logo{
+    font-size: 50px;
+    font-weight: 600;
+    color: #FFFFFF;
+    padding: 30px;
+}
+
+header h1{
+    font-weight: 400;
+    color: #f3f3f3;
+    padding-bottom: 30px;
+}
+
+header .line{
+    width: 80px;
+    height: 2px;
+    background-color: #F4B942;
+    margin-bottom: 100px;
+}
+
+.portfolio-card .content{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+
+.portfolio-card img{
+    display: block;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.portfolio-card .project-info{
+    width: fit-content;
+    margin-top: 6px;
+}
+
+.portfolio-card .project-info .name-project{
+    border-radius: 5px;
+    font-size: 18px;
+    color: #f3f3f3;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.portfolio-card .project-info .name-project .line{
+    width: 42px;
+    height: 2px;
+    background: #F4B942;
+    transition: all .6s ease;
+}
+
+.portfolio-card a:hover .project-info .name-project .line{
+    width: 100%;
+}
