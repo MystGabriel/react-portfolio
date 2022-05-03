@@ -229,7 +229,7 @@ function Home() {
       {/* MAP */}
       <section className="maps" id="maps">
         <div className="content">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3659.2159785479516!2d-46.70405164893236!3d-23.488728964725286!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cef9ae585d85fd%3A0x86d08b1ab03de004!2sR.%20Calixto%20de%20Almeida%2C%20539%20-%20Jardim%20Monjolo%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2002961-000!5e0!3m2!1spt-BR!2sbr!4v1635105277172!5m2!1spt-BR!2sbr" width="100%" height="450" style={{border: 0}} allowFullScreen="" loading="lazy"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3655.375203449354!2d-46.58906798449713!3d-23.62673046989587!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94ce5c989cf11ccb%3A0xa2619cb6a3aa1866!2sAv.%20Patente%2C%20500%20-%20Jardim%20Patente%2C%20S%C3%A3o%20Paulo%20-%20SP%2C%2004243-000!5e0!3m2!1spt-BR!2sbr!4v1651590295672!5m2!1spt-BR!2sbr" width="100%" height="450" style={{border: 0}} allowFullScreen="" loading="lazy"></iframe>
         </div>
       </section>
 
