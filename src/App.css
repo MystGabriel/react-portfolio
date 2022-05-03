@@ -2,15 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400;500;600&family=Open+Sans:wght@300;400;500;600;700&family=Poppins:wght@200;300;400;500;600;700&display=swap');
 @font-face{
     font-family: 'Haunter';
-    src: url(./components/fonts/Haunter.otf);
-}
-
-/* VARIABLES */
-:root{
-    --primary-color: #F4B942;
-    --primary-background: #151530;
-    --secondary-background: #12122a;
-    --light-font: #FFFFFF;
+    src: url(./assets/fonts/Haunter.otf);
 }
 
 /* GLOBAL */

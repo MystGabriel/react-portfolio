@@ -4,8 +4,8 @@ import React from 'react'
 import { FiLinkedin, FiMapPin, FiMail, FiPhoneCall } from 'react-icons/fi'
 
 // styles
-import '../styles/portfolio.css'
-import '../styles/contact.css'
+import '../assets/styles/portfolio.css'
+import '../assets/styles/contact.css'
 
 function Contact() {
   return (

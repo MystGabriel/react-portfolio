@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react'
 import { Link } from 'react-router-dom'
-import { project } from '../json/projects.json'
+import { project } from '../assets/json/projects.json'
 import Typed from 'typed.js'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
@@ -11,12 +11,12 @@ import { AiOutlineWhatsApp, AiOutlineCheckCircle } from 'react-icons/ai'
 import { RiArrowDropRightLine } from 'react-icons/ri'
 
 // images
-import Development from '../images/Development.png'
-import WebDesign from '../images/WebDesign.png'
-import Studies from '../images/Studies.png'
+import Development from '../assets/images/Development.png'
+import WebDesign from '../assets/images/WebDesign.png'
+import Studies from '../assets/images/Studies.png'
 
 // styles
-import '../styles/home.css'
+import '../assets/styles/home.css'
 
 function Home() {
   // typing effect

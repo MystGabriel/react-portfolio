@@ -38,6 +38,7 @@
 
 .navbar .menu-list{
     display: inline-flex;
+    align-items: center;
 }
 
 .menu-list .navbar-active{
@@ -45,6 +46,7 @@
 }
 
 .menu-list li{
+    margin-left: 35px;
     list-style: none;
 }
 
@@ -53,7 +55,6 @@
     color: #fff;
     font-size: 15px;
     font-weight: 300;
-    margin-left: 35px;
     text-decoration: none;
     transition: all 0.3s ease;
 }
@@ -77,6 +78,25 @@
 
 .menu-list li a:hover:after{
     transform: translateX(-50%) scaleX(1);
+}
+
+.menu-list li .custom-select{
+    padding: 3px 10px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #12122a;
+    background-color: #F4B942;
+}
+
+.menu-list li .custom-select option{
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #12122a;
 }
 
 .icon{

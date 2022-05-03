@@ -6,7 +6,7 @@ import { AiOutlineWhatsApp, AiOutlineCopyrightCircle } from 'react-icons/ai'
 import { RiArrowUpSLine } from 'react-icons/ri'
 
 // styles
-import './styles/footer.css'
+import '../assets/styles/footer.css'
 
 function Footer() {
   return (

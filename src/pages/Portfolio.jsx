@@ -1,8 +1,8 @@
 import React from 'react'
-import { project } from '../json/projects.json'
+import { project } from '../assets/json/projects.json'
 
 // styles
-import '../styles/portfolio.css'
+import '../assets/styles/portfolio.css'
 
 function Portfolio() {
   return (

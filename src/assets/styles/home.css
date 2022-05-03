@@ -181,16 +181,16 @@
     padding: 10px;
     margin-right: 10px;
     border-radius: 50%;
-    color: var(--secondary-background);
-    background-color: var(--light-font);
+    color: #12122a;
+    background-color: #fff;
     transition: all .3s ease;
     cursor: pointer;
 }
 
 .about .content .right .social .social-icons a:hover{
     transform: scale(1.1);
-    color: var(--light-font);
-    background-color: var(--primary-color);
+    color: #fff;
+    background-color: #F4B942;
 }
 
 /* KNOWLEDGE */

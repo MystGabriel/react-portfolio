@@ -6,6 +6,10 @@ header{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    background: radial-gradient(circle, rgba(31,31,78,1) 0%, rgba(21,21,48,1) 35%);
+    background-image: url(../images/05.jpg);
+    background-position: bottom;
+    background-size: cover;
 }
 
 header .logo{

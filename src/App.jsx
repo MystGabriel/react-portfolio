@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
-import Contact from './components/pages/Contact'
-import Portfolio  from './components/pages/Portfolio'
-import Home from './components/pages/Home'
+import Contact from './pages/Contact'
+import Portfolio  from './pages/Portfolio'
+import Home from './pages/Home'
 import Header from './components/Header'
 import './App.css'
 
