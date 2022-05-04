@@ -108,7 +108,7 @@ body{
         left: -100%;
         top: 0px;
         display: block;
-        padding: 40px 0;
+        padding: 80px 0;
         text-align: center;
         background: #1f1f3b;
         transition: all 0.3s ease;
@@ -117,6 +117,7 @@ body{
         left: 0%;
     }
     .navbar .menu-list li{
+        margin-left: 0;
         margin-top: 45px;
     }
     .navbar .menu-list li a{
